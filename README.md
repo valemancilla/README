@@ -339,4 +339,8 @@ Este código sirve para **validar** si un número de teléfono tiene exactamente
 
 ### ¿PARA QUÉ SIRVE ESTE CÓDIGO?
 
+<<<<<<< HEAD
 Este código sirve para **verificar si una palabra es un palíndromo**, es decir, si **se lee igual de izquierda a derecha que de derecha a izquierda**.
+=======
+Este código sirve para **verificar si una palabra es un palíndromo**, es decir, si **se lee igual de izquierda a derecha que de derecha a izquierda**.
+>>>>>>> aeaaeb0702c7a81557c72c9300b9e9d849525f47
